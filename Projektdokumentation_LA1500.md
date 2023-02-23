@@ -12,7 +12,7 @@
 
 ## 1 Informieren
 
-### 1.1 Ihr Projekt
+### 1.1 Monopoly
 
 Wir machen ein Monopoly Brettspiel.
 
