@@ -49,6 +49,11 @@ verbesserungen
 
 ### 1.4 Diagramme
 
+![Screenshot 2023-02-23 113736](https://user-images.githubusercontent.com/111044245/220883631-c4e532a4-a307-4afe-97eb-2c4ba34fe328.png)
+![Screenshot 2023-02-23 113620](https://user-images.githubusercontent.com/111044245/220883790-2752ffe2-695f-474f-8dd1-a2bd56d250f9.png)
+
+
+
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
 
 ## 2 Planen
