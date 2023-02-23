@@ -14,9 +14,9 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir machen ein Monopoly Brettspiel.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spielen kann. Zudem sollen auch viele Events passieren, welche zum Beispiel durch Ereigniskarten ausgelöst werden. Als ein cooles Feature wolle wir es möglich machen, dass man jegliche Felder upgraden kann, zum Beispiel das Ereignisfeld, welches dann eine erhöhte Chance für positive Effekte gibt. Das alles wollen wir mit Winforms machen, da wir gerne wieder eine visuelle Applikation machen wollen. Zudem wollen wir auch nochmal die eventbasierte Programmierung üben.
 
 ### 1.2 User Stories
 
