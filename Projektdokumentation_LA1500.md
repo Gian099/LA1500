@@ -72,9 +72,30 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
+| 1.A  |  9.3  | Lukas     | Spielfeld und Startbutton | 90'|
+| 3.A  |  9.3  | Ava       | Auswahl der Figuren  |  45'             |
+| 3.B  |  9.3     | Ava          | Designe der Figuren   |  30' |
+| 4.A  |  9.3     | Gian | Startkapital |  45'|
+| 5.A  |  9.3     | Yanik    |  Würfel programmieren            |   45'            |
+| 5.B  |  9.3     | Yanik    | Bewegung zum gewürfelten Feld    |     45'          |
+| 6.A  |  9.3     | Lukas    | Ereignis Felder programmieren  |  20'             |
+| 7.A  |  9.3     | Gian         | Geldstand wird upgedatet.              | 30' |
+| 2.A  |  9.3     | Lukas,Gian,Ava,Yanik          |  Basic Code allen Figuren hinzufügen und erste Prototyp runde | 90'              |
+| 1.A  |  16.3     | Lukas          |              |               |
+| 1.A  |  16.3     | Lukas          |              |               |
+| 1.A  |  16.3     | Ava         |              |               |
+| 1.A  |  16.3     | Ava          |              |               |
+| 1.A  |  16.3     |           |              |               |
+| 1.A  |  16.3     |           |              |               |
+| 1.A  |  16.3     |           |              |               |
+| 1.A  |  16.3     |           |              |               |
+| 1.A  |  16.3     |           |              |               |
 | 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
-
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
