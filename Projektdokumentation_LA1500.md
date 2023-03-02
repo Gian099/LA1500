@@ -72,7 +72,8 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  9.3  | Lukas     | Spielfeld und Startbutton | 90'|
+| 1.A  |  9.3  | Lukas     | Startbutton | 25'|
+| 1.B |  9.3  | Lukas     | Spielfeld | 90'|
 | 3.A  |  9.3  | Ava       | Auswahl der Figuren  |  45'             |
 | 3.B  |  9.3     | Ava          | Designe der Figuren   |  30' |
 | 4.A  |  9.3     | Gian | Startkapital |  45'|
@@ -93,7 +94,7 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 13.A  |  16.3     | Yanik          | Spieler kann Kredit anfordern              |  45'             |
 | 15.A  |  16.3     | Yanik          | Kontostand leuchtet rot auf wenn er sehr niedrig ist. |    45'           |
 | 14.A  |  16.3     |  Lukas         | Upgrade von Ereignisfelder            | 45'              |
-| 1.A  |  23.3     |  Yanik         |              |               |
+| 1.A  |  23.3     |  Yanik         | Abzug der Miete wenn man auf fremdem Feld ist             |     45'          |
 | 1.A  |  23.3      |           |              |               |
 | 1.A  |  23.3      |           |              |               |
 | 1.A  |  23.3      |           |              |               |
