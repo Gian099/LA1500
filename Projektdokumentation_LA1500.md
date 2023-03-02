@@ -50,7 +50,7 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 5.1  |  Spieler würfelt          | klicke auf den Würfelbutton        |  Spieler würfelt und geht auf das geworfene Feld.  |
 | 6.1  |  Spieler steht auf einem Ereignissfeld            |  Karte wird gezogen       |   Gezogenes Event wird abgespielt.  |
 | 7.1  |  Kontostand soll aktuell bleiben  |  Transaktion wird durch geführt.       | Kontostand wird upgedatet.  |
-| 8.1  |  Spieler steht auf einem Feld            |  Klicke auf Kaufen       |  Feld wurde dem Käufer gutgeschrieben.|
+| 8.1  |  Spieler steht auf einem Feld           |  Klicke auf Kaufen       |  Feld wurde dem Käufer gutgeschrieben.|
 | 9.1  |  Feld nicht Frei            |         |   Feld kann nicht gekauft werden, da es schon bei jemand anderen im Besitz ist.       |
 | 10.1  |  Spieler gelangt auf fremdes Feld     | Transaktion startet.        |  Der Spieler wer dieses Feld besitzt wird Geld übertragen.|
 | 11.1  | Spieler gelangt auf Gefängnisfeld             |  Zeit vergeht       | Spieler landet im Gefängniss und ist 3 Runden gesperrt.|
