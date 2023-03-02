@@ -94,25 +94,20 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 13.A  |  16.3     | Yanik          | Spieler kann Kredit anfordern              |  45'             |
 | 15.A  |  16.3     | Yanik          | Kontostand leuchtet rot auf wenn er sehr niedrig ist. |    45'           |
 | 14.A  |  16.3     |  Lukas         | Upgrade von Ereignisfelder            | 45'              |
-| 1.A  |  23.3     |  Yanik         | Abzug der Miete wenn man auf fremdem Feld ist             |     45'          |
+| 14.A  |  23.3     |  Yanik         | Abzug der Miete wenn man auf fremdem Feld ist             |     45'          |
+| 12.A  |  23.3      |  Lukas        | Runden erstellen             |  45'             |
+| 1.A  |  23.3      |  Gian         |              |               |
 | 1.A  |  23.3      |           |              |               |
 | 1.A  |  23.3      |           |              |               |
 | 1.A  |  23.3      |           |              |               |
 | 1.A  |  23.3      |           |              |               |
-| 1.A  |  23.3      |           |              |               |
-| 1.A  |  23.3      |           |              |               |
 | 1.A  |       |           |              |               |
 | 1.A  |       |           |              |               |
 | 1.A  |       |           |              |               |
 | 1.A  |       |           |              |               |
 | 1.A  |       |           |              |               |
 | 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
+
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
