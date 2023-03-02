@@ -81,15 +81,27 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 6.A  |  9.3     | Lukas    | Ereignis Felder programmieren  |  20'             |
 | 7.A  |  9.3     | Gian         | Geldstand wird upgedatet.              | 30' |
 | 2.A  |  9.3     | Lukas,Gian,Ava,Yanik          |  Basic Code allen Figuren hinzufügen und erste Prototyp runde | 90'              |
-| 1.A  |  16.3     | Lukas          |              |               |
-| 1.A  |  16.3     | Lukas          |              |               |
-| 1.A  |  16.3     | Ava         |              |               |
-| 1.A  |  16.3     | Ava          |              |               |
+| 6.B  |  16.3     | Lukas          | Ereignis porgrammieren    | 45'              |
+| 6.C  |  16.3     | Lukas          | Ereignis wird ausgelöst | 45'               |
+| 8.A  |  16.3     | Ava         | Felder Programmieren und deren Preisen etc.  |  90'             |
+| 8.B  |  16.3     | Ava         | Felder können gekauft werden.   |  30'            |
+| 11.A  |  16.3     | Gian          |   Gefängnis Feld plus aussetzen.           |  90'             |
+| 13.A  |  16.3     | Yanik          | Spieler kann Kredit anfordern              |  45'             |
+| 15.A  |  16.3     | Yanik          | Kontostand leuchtet rot auf wenn er sehr niedrig ist. |               |
 | 1.A  |  16.3     |           |              |               |
 | 1.A  |  16.3     |           |              |               |
-| 1.A  |  16.3     |           |              |               |
-| 1.A  |  16.3     |           |              |               |
-| 1.A  |  16.3     |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
 | 1.A  |       |           |              |               |
 | 1.A  |       |           |              |               |
 | 1.A  |       |           |              |               |
