@@ -97,6 +97,7 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 11.B  |  16.3     | Gian          |   Spieler gelant ins Gefängnis   |  45'             |
 | 11.B  |  16.3     | Gian          |  Sperrung über 3 Runden + Visuell sichtbar   |  25'             |
 | 13.A  |  16.3     | Yanik          | Spieler kann Kredit anfordern              |  45'             |
+| 13.B  |  16.3     | Yanik          | Spieler kann Kredit zurück zahlen            |  20'             |
 | 15.A  |  16.3     | Yanik          | Kontostand leuchtet rot auf wenn er sehr niedrig ist. |    45'           |
 | 14.A  |  16.3     |  Lukas         | Upgrade von Ereignisfelder            | 45'              |
 | 14.A  |  23.3     |  Yanik         | Abzug der Miete wenn man auf fremdem Feld ist             |     45'          |
