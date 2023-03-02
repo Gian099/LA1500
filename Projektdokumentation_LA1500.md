@@ -40,10 +40,22 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
+| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe|
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |  Spieler will spielem |  Klickt den Startbutton       |  Spielstartet|
+| 3.1  |  Spieler wählt Figur aus            | Klickt auf gewünschte Figur  | Spieler spielt mit der gewünschten Figur. |
+| 4.1  |  Spieler möchte anfangs Kapital            |  Spiel startet       |    1500 Spielgeld ist auf dem Konto               |
+| 5.1  |  Spieler würfelt          | klicke auf den Würfelbutton        |  Spieler würfelt und geht auf das geworfene Feld.  |
+| 6.1  |  Spieler steht auf einem Ereignissfeld            |  Karte wird gezogen       |   Gezogenes Event wird abgespielt.  |
+| 7.1  |  Kontostand soll aktuell bleiben  |  Transaktion wird durch geführt.       | Kontostand wird upgedatet.  |
+| 8.1  |  Spieler steht auf einem Feld            |  Klicke auf Kaufen       |  Feld wurde dem Käufer gutgeschrieben.|
+| 9.1  |  Feld nicht Frei            |         |   Feld kann nicht gekauft werden, da es schon bei jemand anderen im Besitz ist.       |
+| 10.1  |  Spieler gelangt auf fremdes Feld     | Transaktion startet.        |  Der Spieler wer dieses Feld besitzt wird Geld übertragen.|
+| 11.1  | Spieler gelangt auf Gefängnisfeld             |  Zeit vergeht       | Spieler landet im Gefängniss und ist 3 Runden gesperrt.|
+| 12.1  | Spieler im Gefängis             |  Runde vergeht       |  Spieler bekommt Update wie lange er noch im Gefängnis sein muss.     |
+| 13.1 |  Kontostand niedrig            | Kredit anforden        |   Spieler bekommt Kredit von der Bank|
+| 14.1  |  Spieler ist auf eigenem Feld             |Upgradbutton klicken         | Feld wird upgegraded und Betrag wird abgezogen |
+| 15.1 |  Kontstand sehr niedrig            |  Spieler gibt Geld aus       |  Kontostand leuchtet rot auf.                 |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
