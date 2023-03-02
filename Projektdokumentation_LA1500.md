@@ -84,9 +84,10 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 2.A  |  9.3     | Lukas,Gian,Ava,Yanik          |  Basic Code allen Figuren hinzufügen und erste Prototyp runde | 90'              |
 | 6.B  |  16.3     | Lukas          | Ereignis porgrammieren    | 45'              |
 | 6.C  |  16.3     | Lukas          | Ereignis wird ausgelöst | 45'               |
-| 8.A  |  16.3     | Ava         | Felder Programmieren und deren Preisen etc.  |  90'             |
-| 8.B  |  16.3     | Ava         | Felder können gekauft werden.   |  15'            |
-| 8.C  |  16.3     | Ava         | Geld wird abgezogen   |  15'            |
+| 8.A  |  16.3     | Ava         | Felder Programmieren  |  70'             |
+| 8.B  |  16.3     | Ava         |Preise und andere EIgenschaften hinzufügen  |  20'             |
+| 8.C  |  16.3     | Ava         | Felder können gekauft werden.   |  15'            |
+| 8.D  |  16.3     | Ava         | Geld wird abgezogen   |  15'            |
 | 11.A  |  16.3     | Gian          |   Gefängnis Feld  |  45'             |
 | 11.B  |  16.3     | Gian          |   Aussetzen plus Runden  |  45'             |
 | 13.A  |  16.3     | Yanik          | Spieler kann Kredit anfordern              |  45'             |
