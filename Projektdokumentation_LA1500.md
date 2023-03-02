@@ -22,19 +22,19 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1|Spielen|Funktional| Als User möchte ich dem spiel beitreten können und mit anderen Spielern spielen. |
-| 2 |Spieler|Funktional/Qualität| Als User möchte ich ein eigenes Spielfigürchen auswählen, welches mich als Spieler im Spiel repräsentiert.                          
-|3| Anfangs-Betrag| Funktional| Als User möchte ich mit einem gegebenem Betrag an Geld ins Spiel starten.|  
-|4|Würfel|funktional |Als User möchte ich die Anzahl Schritte welche ich gehen muss, würfeln können. |
-|5| Ereignisse|Funktional|Als User möchte ich, dass das Ereignis auf welchem ich gelandet bin, passiert und ich dem nach entsprechend weiter spielen muss. |
-|6 |Geldstand |Funktional/Qualität| Als User möchte ich, dass mir mein Geldstand immer angezeigt wird und aktualisiert wird wenn Abzüge oder Aufschläge stattfinden.|
-|7| Kaufen| Funktional| Als User möchte ich Felder kaufen können.|
-|8| Verfügbar| Funktional| Als User möchte ich sehen was zum Kauf verfügbar ist, und auch nur dann in der Lage zu sein etwas kaufen zu können. |
-|9| Gebühren| Qualität| Als User möchte ich, dass die anderen Spieler mir Geld abzahlen müssen, wenn sie auf ein Feld gelangen, welches ich gekauft habe.|
-|10| Sperrung| Qualität| Als User möchte ich, dass ich gesperrt werde, und nicht spielen kann, wenn ich im Gefängnis bin.|
-|11| Sperrungs spezifikationen| Qualität| Als User möchte ich, dass mir angezeigt wird wieviele Runden ich noch aussetzten muss  bis ich wieder spielen darf.|
-|12| Kredite | Funktional| Als User möchte Kredite bei der Bank und anderen Spielern aufnehmen können.|
-|13| Verbesserungen| Rand| Als User möchte ich, was ich gekauft habe, Upgraden. Und zwar so, dass ich passives Einkommen erlange.|
+| 1|muss|Funktional| Als User möchte ich dem spiel beitreten können und mit anderen Spielern spielen. |
+| 2 |kann|Funktional/Qualität| Als User möchte ich ein eigenes Spielfigürchen auswählen, welches mich als Spieler im Spiel repräsentiert.                          
+|3|muss| Funktional| Als User möchte ich mit einem gegebenem Betrag an Geld ins Spiel starten.|  
+|4|muss|funktional |Als User möchte ich die Anzahl Schritte welche ich gehen muss, würfeln können. |
+|5| kann|Funktional|Als User möchte ich, dass das Ereignis auf welchem ich gelandet bin, passiert und ich dem nach entsprechend weiter spielen muss. |
+|6 |muss|Funktional/Qualität| Als User möchte ich, dass mir mein Geldstand immer angezeigt wird und aktualisiert wird wenn Abzüge oder Aufschläge stattfinden.|
+|7|muss| Funktional| Als User möchte ich Felder kaufen können.|
+|8| muss| Funktional| Als User möchte ich sehen was zum Kauf verfügbar ist, und auch nur dann in der Lage zu sein etwas kaufen zu können. |
+|9|muss| Qualität| Als User möchte ich, dass die anderen Spieler mir Geld abzahlen müssen, wenn sie auf ein Feld gelangen, welches ich gekauft habe.|
+|10|kann| Qualität| Als User möchte ich, dass ich gesperrt werde, und nicht spielen kann, wenn ich im Gefängnis bin.|
+|11|kann| Qualität| Als User möchte ich, dass mir angezeigt wird wieviele Runden ich noch aussetzten muss  bis ich wieder spielen darf.|
+|12|kann| Funktional| Als User möchte Kredite bei der Bank und anderen Spielern aufnehmen können.|
+|13|kann| Rand| Als User möchte ich, was ich gekauft habe, Upgraden. Und zwar so, dass ich passives Einkommen erlange.|
 verbesserungen 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
