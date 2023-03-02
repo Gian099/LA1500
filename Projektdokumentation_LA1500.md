@@ -36,9 +36,9 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 |14|kann| Rand| Als User möchte ich, was ich gekauft habe, Upgraden. Und zwar so, dass ich passives Einkommen erlange.|
 |15| kann| Qualität| Als User möchte ich, dass wenn mein Kontostand zu niedrig wird, dieser in Rot aufleuchtet, damit ich ihn sehe.|
 |16| kann| Funktional| Als User möchte ich, dass man seine Felder tauschen kann, damit das Spiel spannender wird.|
-|17| kann| Rand| Als User möchte ich, den Spielstand abspeichern, damit ich später weiter spielen kann.|
-|18| kann| Rand| Als User möchte ich, dass wenn mein Kontostand zu niedrig wird, dieser in Rot aufleuchtet, damit ich ihn sehe.|
-|19| kann| Rand| Als User möchte ich, dass wenn mein Kontostand zu niedrig wird, dieser in Rot aufleuchtet, damit ich ihn sehe.|
+|17| kann| Rand| Als User möchte ich den Spielstand abspeichern, damit ich später weiter spielen kann.|
+|18| kann| Rand| Als Spieler möchte ich aufgeben können, damit ich aufhören kann. |
+|19| kann| Rand| Als Spieler möchte ich einen Timer, damit man sehen kann wie lange man schon spielt.|
 
 ### 1.3 Testfälle
 
@@ -99,7 +99,7 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 14.A  |  23.3     |  Yanik         | Abzug der Miete wenn man auf fremdem Feld ist             |     45'          |
 | 12.A  |  23.3      |  Lukas        | Runden erstellen             |  45'             |
 | 1.A  |  23.3      |  Gian         |              |               |
-| 1.A  |  23.3      |           |              |               |
+| 1.A  |  23.3      |  Ava         |              |               |
 | 1.A  |  23.3      |           |              |               |
 | 1.A  |  23.3      |           |              |               |
 | 1.A  |  23.3      |           |              |               |
