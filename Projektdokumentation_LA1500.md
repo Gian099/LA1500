@@ -34,9 +34,11 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 |12|kann| Qualität| Als User möchte ich, dass mir angezeigt wird wieviele Runden ich noch aussetzten muss  bis ich wieder spielen darf, damit ich mir dem Bewusst bin und wieder spielen kann.|
 |13|kann| Qualität| Als User möchte Kredite bei der Bank und anderen Spielern aufnehmen können.|
 |14|kann| Rand| Als User möchte ich, was ich gekauft habe, Upgraden. Und zwar so, dass ich passives Einkommen erlange.|
-|15| kann| Rand| Als User möchte ich, dass wenn mein Kontostand zu niedrig wird, dieser in Rot aufleuchtet, damit ich ihn sehe.|
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+|15| kann| Qualität| Als User möchte ich, dass wenn mein Kontostand zu niedrig wird, dieser in Rot aufleuchtet, damit ich ihn sehe.|
+|16| kann| Funktional| Als User möchte ich, dass man seine Felder tauschen kann, damit das Spiel spannender wird.|
+|17| kann| Rand| Als User möchte ich, den Spielstand abspeichern, damit ich später weiter spielen kann.|
+|18| kann| Rand| Als User möchte ich, dass wenn mein Kontostand zu niedrig wird, dieser in Rot aufleuchtet, damit ich ihn sehe.|
+|19| kann| Rand| Als User möchte ich, dass wenn mein Kontostand zu niedrig wird, dieser in Rot aufleuchtet, damit ich ihn sehe.|
 
 ### 1.3 Testfälle
 
