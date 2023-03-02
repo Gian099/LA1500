@@ -6,8 +6,8 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
+|   23.2    | 0.0.1   |Uns für ein Spielmentschieden, Userstories erstellt, Informieren geschrieben, Use-Case und PAP Diagramme erstellt. |
+|     2.3  | 0.0.2    |Weitere  5 User stories hinzugefügt, Arbeitspakete erstellt, Testfälle geschrieben.|
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -23,19 +23,21 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1|muss|Funktional| Als User möchte ich dem spiel beitreten können und mit anderen Spielern spielen. |
-| 2 |kann|Funktional/Qualität| Als User möchte ich ein eigenes Spielfigürchen auswählen, welches mich als Spieler im Spiel repräsentiert.                          
-|3|muss| Funktional| Als User möchte ich mit einem gegebenem Betrag an Geld ins Spiel starten.|  
-|4|muss|funktional |Als User möchte ich die Anzahl Schritte welche ich gehen muss, würfeln können. |
-|5| kann|Funktional|Als User möchte ich, dass das Ereignis auf welchem ich gelandet bin, passiert und ich dem nach entsprechend weiter spielen muss. |
-|6 |muss|Funktional/Qualität| Als User möchte ich, dass mir mein Geldstand immer angezeigt wird und aktualisiert wird wenn Abzüge oder Aufschläge stattfinden.|
-|7|muss| Funktional| Als User möchte ich Felder kaufen können.|
-|8| muss| Funktional| Als User möchte ich sehen was zum Kauf verfügbar ist, und auch nur dann in der Lage zu sein etwas kaufen zu können. |
-|9|muss| Qualität| Als User möchte ich, dass die anderen Spieler mir Geld abzahlen müssen, wenn sie auf ein Feld gelangen, welches ich gekauft habe.|
-|10|kann| Qualität| Als User möchte ich, dass ich gesperrt werde, und nicht spielen kann, wenn ich im Gefängnis bin.|
-|11|kann| Qualität| Als User möchte ich, dass mir angezeigt wird wieviele Runden ich noch aussetzten muss  bis ich wieder spielen darf.|
-|12|kann| Funktional| Als User möchte Kredite bei der Bank und anderen Spielern aufnehmen können.|
-|13|kann| Rand| Als User möchte ich, was ich gekauft habe, Upgraden. Und zwar so, dass ich passives Einkommen erlange.|
-verbesserungen 
+|2| muss| Funktional| Als User möchte ich, dass weitere drei User dem Spiel beitreten können, damit diese mit mir spielen können. |
+| 3 |kann|Funktional/Qualität| Als User möchte ich ein eigenes Spielfigürchen auswählen, damit dieses mich als Spieler im Spiel repräsentiert.|       
+|4|muss| Funktional| Als User möchte ich mit einem gegebenem Betrag an Geld ins Spiel starten, damit das Spiel ins Rollen kommt.|  
+|5|muss|Funktional |Als User möchte ich die Anzahl Schritte welche ich gehen muss, würfeln können, damit ein gewisser Grad an Zufall mitspielt. |
+|6| kann|Funktional|Als User möchte ich, dass das Ereignis auf welchem ich gelandet bin, passiert und ich dem nach entsprechend weiter spielen muss. |
+|7 |muss|Funktional/Qualität| Als User möchte ich, dass mir mein Geldstand immer angezeigt wird und aktualisiert wird wenn Abzüge oder Aufschläge stattfinden, damit ich auf neuestem Stand bin und dem nach Handeln kann.|
+|8|muss| Funktional| Als User möchte ich Felder kaufen können, damit ich anderen voraus bin.|
+|9| muss| Funktional| Als User möchte ich sehen was zum Kauf verfügbar ist, und auch nur dann in der Lage zu sein etwas kaufen zu können, damit ich weiss was verfügbar ist und was nicht. |
+|10|muss| Qualität| Als User möchte ich, dass die anderen Spieler mir Geld abzahlen müssen, wenn sie auf ein Feld gelangen, welches ich gekauft habe, damit ich Umsatz mache von den was ich gekauft habe.|
+|11|kann| Qualität| Als User möchte ich, dass ich gesperrt werde, wenn ich im Gefängnis bin, damit ich auf keine Weise weiter Spielen kann.|
+|12|kann| Qualität| Als User möchte ich, dass mir angezeigt wird wieviele Runden ich noch aussetzten muss  bis ich wieder spielen darf, damit ich mir dem Bewusst bin und wieder spielen kann.|
+|13|kann| Qualität| Als User möchte Kredite bei der Bank und anderen Spielern aufnehmen können.|
+|14|kann| Rand| Als User möchte ich, was ich gekauft habe, Upgraden. Und zwar so, dass ich passives Einkommen erlange.|
+|15| kann| Rand| Als User möchte ich, dass wenn mein Kontostand zu niedrig wird, dieser in Rot aufleuchtet, damit ich ihn sehe.|
+
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
