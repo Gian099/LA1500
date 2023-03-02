@@ -84,9 +84,9 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 5.C  |  9.3     | Yanik    | Bewegung zum gewürfelten Feld    |     45'          |
 | 6.A  |  9.3     | Lukas    | Ereignis Felder programmieren  |  20'             |
 | 7.A  |  9.3     | Gian         | Geldstand wird upgedatet.              | 30' |
-| 2.A  |  9.3     | Lukas,Gian,Ava,Yanik          |  Basic Code allen Figuren hinzufügen  | 90'              |
-| 2.B  |  9.3     | Lukas,Gian,Ava,Yanik          |  Würfeln und Bewegung den Spielern Hinzufügen | 45'              |
-| 2.C  |  9.3     | Lukas,Gian,Ava,Yanik          |  Erste Prototyp erstellem | 45'              |
+| 2.A  |  9.3     | Gian          |  Basic Code allen Figuren hinzufügen  | 45'              |
+| 2.B  |  9.3     | Yanik         |  Würfeln und Bewegung den Spielern Hinzufügen | 45'              |
+| 2.C  |  9.3     | Lukas         |  Erste Prototyp erstellem | 45'              |
 | 6.B  |  16.3     | Lukas          | Ereignis porgrammieren    | 45'              |
 | 6.C  |  16.3     | Lukas          | Ereignis wird ausgelöst | 45'               |
 | 8.A  |  16.3     | Ava         | Felder Programmieren  |  70'             |
