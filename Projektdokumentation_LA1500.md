@@ -98,17 +98,15 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 14.A  |  16.3     |  Lukas         | Upgrade von Ereignisfelder            | 45'              |
 | 14.A  |  23.3     |  Yanik         | Abzug der Miete wenn man auf fremdem Feld ist             |     45'          |
 | 12.A  |  23.3      |  Lukas        | Runden erstellen             |  45'             |
-| 1.A  |  23.3      |  Gian         |              |               |
-| 1.A  |  23.3      |  Ava         |              |               |
-| 1.A  |  23.3      |           |              |               |
-| 1.A  |  23.3      |           |              |               |
-| 1.A  |  23.3      |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
+| 16.A  |  23.3      |  Gian         | Handelmenu erstellen   |    45'           |
+| 16.B  |  23.3      |  Gian        |  Handel Funktion fertigstellen            | 45'              |
+| 17.A  |  23.3      | Yanik          |  Spielstand abspeicher            |  45'             |
+| 17.B  |  23.3      | Yanik         |  Spielstand laden            |  45'             |
+| 18.A  |  23.3      | Ava          |  Aufgeben Button erstellen            |       15'        |
+| 18.B |  23.3      | Ava          |  Aufgeben Button programmieren          |  45'             |
+| 19.A  |  23.3     |  Lukas         |    Timer erstellen          |   30'            |
+| 19.B  |  23.3     |  Lukas         |    Timer programmieren         |   45'            |
+
 
 Total: 
 
