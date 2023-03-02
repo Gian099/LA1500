@@ -76,16 +76,19 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 3.A  |  9.3  | Ava       | Auswahl der Figuren  |  45'             |
 | 3.B  |  9.3     | Ava          | Designe der Figuren   |  30' |
 | 4.A  |  9.3     | Gian | Startkapital |  45'|
-| 5.A  |  9.3     | Yanik    |  Würfel programmieren            |   45'            |
-| 5.B  |  9.3     | Yanik    | Bewegung zum gewürfelten Feld    |     45'          |
+| 5.A  |  9.3     | Yanik    |  Würfel Button erstellen            |  20'            |
+| 5.B  |  9.3     | Yanik    |  Würfel programmieren            |   45'            |
+| 5.C  |  9.3     | Yanik    | Bewegung zum gewürfelten Feld    |     45'          |
 | 6.A  |  9.3     | Lukas    | Ereignis Felder programmieren  |  20'             |
 | 7.A  |  9.3     | Gian         | Geldstand wird upgedatet.              | 30' |
 | 2.A  |  9.3     | Lukas,Gian,Ava,Yanik          |  Basic Code allen Figuren hinzufügen und erste Prototyp runde | 90'              |
 | 6.B  |  16.3     | Lukas          | Ereignis porgrammieren    | 45'              |
 | 6.C  |  16.3     | Lukas          | Ereignis wird ausgelöst | 45'               |
 | 8.A  |  16.3     | Ava         | Felder Programmieren und deren Preisen etc.  |  90'             |
-| 8.B  |  16.3     | Ava         | Felder können gekauft werden.   |  30'            |
-| 11.A  |  16.3     | Gian          |   Gefängnis Feld plus aussetzen.           |  90'             |
+| 8.B  |  16.3     | Ava         | Felder können gekauft werden.   |  15'            |
+| 8.C  |  16.3     | Ava         | Geld wird abgezogen   |  15'            |
+| 11.A  |  16.3     | Gian          |   Gefängnis Feld  |  45'             |
+| 11.B  |  16.3     | Gian          |   Aussetzen plus Runden  |  45'             |
 | 13.A  |  16.3     | Yanik          | Spieler kann Kredit anfordern              |  45'             |
 | 15.A  |  16.3     | Yanik          | Kontostand leuchtet rot auf wenn er sehr niedrig ist. |    45'           |
 | 14.A  |  16.3     |  Lukas         | Upgrade von Ereignisfelder            | 45'              |
