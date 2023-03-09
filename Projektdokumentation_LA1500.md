@@ -81,7 +81,7 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 4.A  |  9.3     | Gian | Startkapital |  45'|
 | 5.A  |  9.3     | ürsprünglich Yanik, gemacht: Gian    |  Würfel Button erstellen            |  20'            |
 | 5.B  |  9.3     | ürsprünglich Yanik, gemacht: Gian    |  Würfel programmieren            |   45'            |
-| 5.C  |  9.3     | Yanik    | Bewegung zum gewürfelten Feld    |     45'          |
+| 5.C  |  9.3     | ürsprünglich Yanik, angefangen Ava Lukas   | Bewegung zum gewürfelten Feld    |     45'          |
 | 6.A  |  9.3     | Lukas    | Ereignis Felder programmieren  |  20'             |
 | 7.A  |  9.3     | Gian         | Geldstand wird upgedatet.              | 30' |
 | 2.A  |  9.3     | Gian          |  Basic Code allen Figuren hinzufügen  | 45'              |
@@ -129,10 +129,10 @@ Total:
 | 1.B  | 09.03.2023 | Lukas          |   90'            |   90'  |
 | 5.A  | 09.03.2023      | Gian          |  20'             |     5' |
 | 5.B  | 09.03.2023      | Gian          |   45'            |    50'               |
-| 5.C  | 09.03.2023      | Lukas          |               |                   |
-| 5.A  |       |           |               |                   |
-| 5.A  |       |           |               |                   |
-| 5.A  |       |           |               |                   |
+| 5.C  | 09.03.2023      | Lukas und Ava  |  45'             |   120' noch nicht fertig  |
+|   |       |           |               |                   |
+|   |       |           |               |                   |
+|   |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
