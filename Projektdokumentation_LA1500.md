@@ -79,8 +79,8 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 3.A  |  9.3  | Ava       | Auswahl der Figuren  |  45'             |
 | 3.B  |  9.3     | Ava          | Designen der Figuren   |  30' |
 | 4.A  |  9.3     | Gian | Startkapital |  45'|
-| 5.A  |  9.3     | Yanik    |  Würfel Button erstellen            |  20'            |
-| 5.B  |  9.3     | Yanik    |  Würfel programmieren            |   45'            |
+| 5.A  |  9.3     | ürsprünglich Yanik, gemacht: Gian    |  Würfel Button erstellen            |  20'            |
+| 5.B  |  9.3     | ürsprünglich Yanik, gemacht: Gian    |  Würfel programmieren            |   45'            |
 | 5.C  |  9.3     | Yanik    | Bewegung zum gewürfelten Feld    |     45'          |
 | 6.A  |  9.3     | Lukas    | Ereignis Felder programmieren  |  20'             |
 | 7.A  |  9.3     | Gian         | Geldstand wird upgedatet.              | 30' |
