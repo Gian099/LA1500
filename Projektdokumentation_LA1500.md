@@ -126,8 +126,13 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.B  | 09.03.2023 | Lukas          |   90'            |   90'  |
+| 5.A  | 09.03.2023      | Gian          |  20'             |     5' |
+| 5.B  | 09.03.2023      | Gian          |   45'            |    50'               |
+| 5.C  | 09.03.2023      | Lukas          |               |                   |
+| 5.A  |       |           |               |                   |
+| 5.A  |       |           |               |                   |
+| 5.A  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
