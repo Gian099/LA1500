@@ -77,7 +77,7 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 1.A  |  9.3  | Lukas     | Startbutton | 25'|
 | 1.B |  9.3  | Lukas     | Spielfeld | 90'|
 | 3.A  |  9.3  | Ava       | Auswahl der Figuren  |  45'             |
-| 3.B  |  9.3     | Ava          | Designe der Figuren   |  30' |
+| 3.B  |  9.3     | Ava          | Designen der Figuren   |  30' |
 | 4.A  |  9.3     | Gian | Startkapital |  45'|
 | 5.A  |  9.3     | Yanik    |  Würfel Button erstellen            |  20'            |
 | 5.B  |  9.3     | Yanik    |  Würfel programmieren            |   45'            |
@@ -94,7 +94,7 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 8.C  |  16.3     | Ava         | Felder können gekauft werden.   |  15'            |
 | 8.D  |  16.3     | Ava         | Geld wird abgezogen   |  15'            |
 | 11.A  |  16.3     | Gian          |   Gefängnis Feld  |  45'             |
-| 11.B  |  16.3     | Gian          |   Spieler gelant ins Gefängnis   |  45'             |
+| 11.B  |  16.3     | Gian          |   Spieler gelangt ins Gefängnis   |  45'             |
 | 11.B  |  16.3     | Gian          |  Sperrung über 3 Runden + Visuell sichtbar   |  25'             |
 | 13.A  |  16.3     | Yanik          | Spieler kann Kredit anfordern              |  45'             |
 | 13.B  |  16.3     | Yanik          | Spieler kann Kredit zurück zahlen            |  20'             |
