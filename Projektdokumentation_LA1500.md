@@ -74,7 +74,7 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  9.3  | Lukas     | Startbutton | 25'|
+| 1.A  |  9.3  | Lukas     | Startbutton und Menu | 25'|
 | 1.B |  9.3  | Lukas     | Spielfeld | 90'|
 | 3.A  |  9.3  | Ava       | Auswahl der Figuren  |  45'             |
 | 3.B  |  9.3     | Ava          | Designen der Figuren   |  30' |
@@ -128,9 +128,9 @@ Total:
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.B  | 09.03.2023 | Lukas          |   90'            |   90'  |
 | 5.A  | 09.03.2023      | Gian          |  20'             |     5' |
-| 5.B  | 09.03.2023      | Gian          |   45'            |    50'               |
+| 5.B  | 09.03.2023      | Gian          |   45'            |    30'               |
 | 5.C  | 09.03.2023      | Lukas und Ava  |  45'             |   120' noch nicht fertig  |
-|   |       |           |               |                   |
+| 1.A  | 09.03.2023     | Gian          |   25'            |     55' noch nicht Fertig              |
 |   |       |           |               |                   |
 |   |       |           |               |                   |
 
