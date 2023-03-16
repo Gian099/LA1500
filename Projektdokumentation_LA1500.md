@@ -133,7 +133,7 @@ Total:
 | 1.A  | 09.03.2023     | Gian          |   25'            |     55' noch nicht Fertig              |
 | 5.C  | 16.03.2023      | Lukas und Ava  |  45'             |   120' fertig  |
 | 6.A | 16.03.2023       |  Lukas         |  45'             |   60' angefangen                |
-
+| 17.A |16.03.2023 |Gian |    90'    |     90' angefangen |
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
