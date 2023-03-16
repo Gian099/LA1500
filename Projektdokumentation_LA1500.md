@@ -131,7 +131,7 @@ Total:
 | 5.B  | 09.03.2023      | Gian          |   45'            |    30'               |
 | 5.C  | 09.03.2023      | Lukas und Ava  |  45'             |   120' noch nicht fertig  |
 | 1.A  | 09.03.2023     | Gian          |   25'            |     55' noch nicht Fertig              |
-|   |       |           |               |                   |
+| 17.A  |  16.03.2023     |   Gian        |     90'          |      90' noch nicht fertig             |
 |   |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
