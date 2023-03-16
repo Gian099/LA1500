@@ -5,8 +5,8 @@ Petunia | Mileti, Heiniger, Hassani, Mueller
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   23.2    | 0.0.1   |Uns für ein Spiel entschieden, Userstories erstellt, Informieren geschrieben, Use-Case und PAP Diagramme erstellt. |
-|     2.3  | 0.0.2    |Weitere  5 User stories hinzugefügt, Arbeitspakete erstellt, Testfälle geschrieben.|
-|       | 1.0.0   |                                                              |
+|     2.3  | 0.0.2    |Würfel und Spielbrett wurden angefangen.|
+|  9.3     | 0.0.3   | Spielfigur kann sich bewegen.                                                             |
 
 ## 1 Informieren
 
