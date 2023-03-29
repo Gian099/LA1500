@@ -139,9 +139,11 @@ Total:
 | 11.A  | 29.03.2023 | Lukas          |   45'            |   20'  |
 | 11.B | 29.03.2023 | Lukas          |   45'            |   20'  |
 | 13.A | 29.03.2023 | Lukas          |   45'            |   10'  |
-| 13.B | 29.03.2023 | Lukas          |   45'            |   10'  |
-| 18.A | 29.03.2023 | Lukas          |   45'            |   10'  |
+| 13.B | 29.03.2023 | Lukas          |   20'            |   10'  |
+| 18.A | 29.03.2023 | Lukas          |   15'            |   10'  |
 | 18.B | 29.03.2023 | Lukas          |   45'            |   10'  |
+| 19.A | 29.03.2023 | Lukas          |   35'            |   20'  |
+| 19.B | 29.03.2023 | Lukas          |   45'            |   20'  |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
