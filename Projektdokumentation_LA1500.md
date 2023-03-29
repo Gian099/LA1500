@@ -5,8 +5,9 @@ Petunia | Mileti, Heiniger, Hassani, Mueller
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   23.2    | 0.0.1   |Uns für ein Spiel entschieden, Userstories erstellt, Informieren geschrieben, Use-Case und PAP Diagramme erstellt. |
-|     2.3  | 0.0.2    |Würfel und Spielbrett wurden angefangen.|
-|  9.3     | 0.0.3   | Spielfigur kann sich bewegen.                                                             |
+|   2.3     | 0.0.2    |Würfel und Spielbrett wurden angefangen.|
+|   9.3     | 0.0.3   | Spielfigur kann sich bewegen.  |
+|  29.3     | 1.0.0   | Prototyp fertig  |
 
 ## 1 Informieren
 
@@ -144,6 +145,7 @@ Total:
 | 18.B | 29.03.2023 | Lukas          |   45'            |   10'  |
 | 19.A | 29.03.2023 | Lukas          |   35'            |   20'  |
 | 19.B | 29.03.2023 | Lukas          |   45'            |   20'  |
+| 19.B | 29.03.2023 | Lukas          |   20'            |   14'  |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
