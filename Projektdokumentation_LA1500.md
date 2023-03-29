@@ -85,7 +85,7 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 6.A  |  9.3     | Lukas    | Ereignis Felder programmieren  |  20'             |
 | 7.A  |  9.3     | Gian         | Geldstand wird upgedatet.              | 30' |
 | 2.A  |  9.3     | Gian          |  Basic Code allen Figuren hinzufügen  | 45'              |
-| 2.B  |  9.3     | Yanik         |  Würfeln und Bewegung den Spielern Hinzufügen | 45'              |
+| 2.B  |  9.3     | ürsprünglich Yanik, gemacht Lukas      |  Würfeln und Bewegung den Spielern Hinzufügen | 45'              |
 | 2.C  |  9.3     | Lukas         |  Erste Prototyp erstellem | 45'              |
 | 6.B  |  16.3     | Lukas          | Ereignis porgrammieren    | 45'              |
 | 6.C  |  16.3     | Lukas          | Ereignis wird ausgelöst | 45'               |
@@ -133,7 +133,9 @@ Total:
 | 1.A  | 09.03.2023     | Gian          |   25'            |     55' noch nicht Fertig              |
 | 5.C  | 16.03.2023      | Lukas und Ava  |  45'             |   120' fertig  |
 | 6.A | 16.03.2023       |  Lukas         |  45'             |   60' angefangen                |
+| 2.B  | 16.03.2023 | Lukas          |   90'            |   90'  |
 | 17.A |16.03.2023 |Gian |    90'    |     90' angefangen |
+| 2.C  | 09.03.2023 | Lukas          |   90'            |   90'  |
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
