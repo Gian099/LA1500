@@ -93,8 +93,8 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 8.B  |  16.3     | Ava         |Preise und andere EIgenschaften hinzufügen  |  20'             |
 | 8.C  |  16.3     | Ava         | Felder können gekauft werden.   |  15'            |
 | 8.D  |  16.3     | Ava         | Geld wird abgezogen   |  15'            |
-| 11.A  |  16.3     | Gian          |   Gefängnis Feld  |  45'             |
-| 11.B  |  16.3     | Gian          |   Spieler gelangt ins Gefängnis   |  45'             |
+| 11.A  |  16.3     | ürsprünglich Gian, gemacht Lukas          |   Gefängnis Feld  |  45'             |
+| 11.B  |  16.3     |  ürsprünglich Gian, gemacht Lukas           |   Spieler gelangt ins Gefängnis   |  45'             |
 | 11.B  |  16.3     | Gian          |  Sperrung über 3 Runden + Visuell sichtbar   |  25'             |
 | 13.A  |  16.3     | Yanik          | Spieler kann Kredit anfordern              |  45'             |
 | 13.B  |  16.3     | Yanik          | Spieler kann Kredit zurück zahlen            |  20'             |
@@ -136,6 +136,8 @@ Total:
 | 2.B  | 16.03.2023 | Lukas          |   90'            |   90'  |
 | 17.A |16.03.2023 |Gian |    90'    |     90' angefangen |
 | 2.C  | 09.03.2023 | Lukas          |   90'            |   90'  |
+| 11.A  | 29.03.2023 | Lukas          |   45'            |   20'  |
+| 11.B | 29.03.2023 | Lukas          |   45'            |   20'  |
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
