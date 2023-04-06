@@ -21,12 +21,14 @@ Wir haben gelernt wie man mit Hilfe von Array ein Objekt in Winforms bewegen kan
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Der Text beschreibt, an was wir in diesem Projekt gearbeitet haben und wie wir zu einer Lösung gekommen sind. Er beschreibt den Code mit einer Erklärung.
+Das GIF zeigt wie unser Code aussieht, wenn er läuft.
+Und der Code Schnipsel beschreibt wie unser Programm zum laufen gebracht wurde.
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Das Spiel ist anständig und zufriedenstellend rausgekommen. Wenn wir zusammen gearbeitet haben, kamen wir gut voran. Es gab keine Streitereien.
 
-👎 und etwas, was nicht gut lief.
+Die Verteilung und die Arbeit selbst war etwas verstreut. Es wurde nicht jedes mal mit der Gruppe in Gedanken gearbeitet, bzw. zusammen gearbeitet. Es hat jedoch trotzdem gut geklappt.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+Ein Verbesserungsvorschlag von uns wäre, dass wir mehr Meetings zusammen organisieren und Austausche so, öfters stattfinden. Beispielsweise 2 mal pro Woche.
