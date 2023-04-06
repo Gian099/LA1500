@@ -59,6 +59,10 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 12.1 |  Kontostand niedrig            | Kredit anforden        |   Spieler bekommt Kredit von der Bank|
 | 13.1  |  Spieler ist auf eigenem Feld             |Upgradbutton klicken         | Feld wird upgegraded und Betrag wird abgezogen |
 | 14.1 |  Kontstand sehr niedrig            |  Spieler gibt Geld aus       |  Kontostand leuchtet rot auf.                 |
+| 15.1 |  Spieler möchte nicht mehr spielen            |  Spieler klickt auf Aufgeben       |  Spiel wird geschlossen.              |
+| 16.1 |  Spieler geht über LOS           |  Spieler bekommt 200 Dollar       |  Kontostand wir um 200 erhöht.                  |
+
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -162,13 +166,15 @@ Total:
 | 5.1  | 06.04.2023 |  positiv        | Lukas       |
 | 6.1  | 06.04.2023 |  positiv        | Lukas       |
 | 7.1  | 06.04.2023 |  negativ        | Lukas       |
-| 7.1  | 06.04.2023 |  negativ        | Lukas       |
-| 7.1  | 06.04.2023 |  negativ        | Lukas       |
-| 7.1  | 06.04.2023 |  negativ        | Lukas       |
-| 7.1  | 06.04.2023 |  negativ        | Lukas       |
-| 7.1  | 06.04.2023 |  negativ        | Lukas       |
-| 7.1  | 06.04.2023 |  negativ        | Lukas       |
-| 7.1  | 06.04.2023 |  negativ        | Lukas       |
+| 8.1  | 06.04.2023 |  negativ        | Lukas       |
+| 9.1  | 06.04.2023 |  negativ        | Lukas       |
+| 10.1  | 06.04.2023 |  positiv      | Lukas       |
+| 11.1  | 06.04.2023 |  negativ        | Lukas       |
+| 12.1  | 06.04.2023 |  positiv        | Lukas       |
+| 13.1  | 06.04.2023 |  negativ        | Lukas       |
+| 14.1  | 06.04.2023 |  negativ        | Lukas       |
+| 15.1  | 06.04.2023 |  positiv        | Lukas       |
+| 16.1  | 06.04.2023 |  positiv        | Lukas       |
 
 
 
