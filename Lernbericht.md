@@ -1,13 +1,14 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Gruppe: Petunia
+Mitglieder: Gian Mileti, Lukas Heiniger, Ava Hassani, Yanik Müller
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Wir haben ein Monopoly mit Winforms erstellt.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Wir haben gelernt wie man mit Hilfe von Array ein Objekt in Winforms bewegen kann.
 
 ## Beschreibung
 
