@@ -12,7 +12,7 @@ Wir haben gelernt wie man mit Hilfe von Array ein Objekt in Winforms bewegen kan
 
 ## Beschreibung
 
-Wir haben mit Hilfe von Pictureboxes und Arrays ein Objekt bewegt. Dies benötigten wir für unser Projekt Monopoly. Wir haben uns für die Arbeit mit Array entschieden, da es eine einfache und gute Lösung war, um den Spieler zu bewegen. Im Spiel haben wir 20 Pictureboxes, welche die einzelnen Felder repräsentieren. Diese Felder haben wir dann in einem Array gespeichert, damit wir die Spielfigur auf das gewünschte Feld teleportieren konnten.
+Wir haben mithilfe von Pictureboxes und Arrays ein Objekt bewegt. Dies benötigten wir für unser Projekt Monopoly. Wir haben uns für die Arbeit mit Array entschieden, da es eine einfache und gute Lösung war, um den Spieler zu bewegen. Im Spiel haben wir 20 Pictureboxes, welche die einzelnen Felder repräsentieren. Diese Felder haben wir dann in einem Array gespeichert, damit wir die Spielfigur auf das gewünschte Feld teleportieren konnten.
 
 ```C#
         public PictureBox[] pictureboxarray;
@@ -26,10 +26,10 @@ Wir haben mit Hilfe von Pictureboxes und Arrays ein Objekt bewegt. Dies benötig
         }
 
 ```
-So unser Code etwa aus. 
+So sah unser Code etwa aus. 
 In diesem Beispiel werden 8 Felder in dem Array pictureboxarray abgespeichert, welcher in der ersten Zeile festgelegt wird.
 
-Hier ein Code Beispiel wie die Daten im Array aufgerufen werden.
+Hier ein Code Beispiel, wie die Daten im Array aufgerufen werden.
 
 ```C#
 
@@ -44,7 +44,7 @@ Hier ein Code Beispiel wie die Daten im Array aufgerufen werden.
 
 
 ```
-Mit Hilfe eines Zahlengenerators konnte man die Spielfigur nun bewegen, das funktioniert so in dem man das Ergebnis des Würfels auf die Location rechnet, da die Location am Anfang 0 war startet der Spieler bei 0, wenn man jetz eine 5 würfel würde, würde der Spieler auf 5 bewegt werden.
+Mithilfe eines Zahlengenerators konnte man die Spielfigur nun bewegen, das funktioniert so in dem man das Ergebnis des Würfels auf die Location rechnet, da die Location am Anfang 0 war, startet der Spieler bei 0, wenn man jetzt eine 5 würfel würde, würde der Spieler auf 5 bewegt werden.
 
 Hier ein Gif wie die Bewegung im Spiel aussieht.
 
@@ -53,14 +53,14 @@ Hier ein Gif wie die Bewegung im Spiel aussieht.
 
 ## Verifikation
 
-Der Text beschreibt, an was wir in diesem Projekt gearbeitet haben und wie wir zu einer Lösung gekommen sind. Er beschreibt den Code mit einer Erklärung.
-Das GIF zeigt wie unser Code aussieht, wenn er läuft.
-Und der Code Schnipsel beschreibt wie unser Programm zum laufen gebracht wurde.
+Der Text beschreibt, woran wir in diesem Projekt gearbeitet haben und wie wir zu einer Lösung gekommen sind. Er beschreibt den Code mit einer Erklärung.
+Das GIF zeigt, wie unser Code aussieht, wenn er läuft.
+Und der Code Schnipsel beschreibt, wie die Spielfigur zum Laufen gebracht wurde.
 
 # Reflexion zum Arbeitsprozess
 
-Das Spiel ist anständig und zufriedenstellend rausgekommen. Wenn wir zusammen gearbeitet haben, kamen wir gut voran. Es gab keine Streitereien.
+Das Spiel ist anständig und zufriedenstellend herausgekommen. Wenn wir zusammen gearbeitet haben, kamen wir gut voran. Es gab keine Streitereien.
 
-Die Verteilung und die Arbeit selbst war etwas verstreut. Es wurde nicht jedes mal mit der Gruppe in Gedanken gearbeitet, bzw. zusammen gearbeitet. Es hat jedoch trotzdem gut geklappt.
+Die Verteilung und die Arbeit selbst war etwas verstreut. Es wurde nicht jedes Mal mit der Gruppe in Gedanken gearbeitet, bzw. zusammen gearbeitet. Es hat jedoch trotzdem gut geklappt.
 
-Ein Verbesserungsvorschlag von uns wäre, dass wir mehr Meetings zusammen organisieren und Austausche so, öfters stattfinden. Beispielsweise 2 mal pro Woche.
+Ein Verbesserungsvorschlag von uns wäre, dass wir mehr Meetings zusammen organisieren und Austausche so, öfters stattfinden. Beispielsweise 2 Mal pro Woche.
