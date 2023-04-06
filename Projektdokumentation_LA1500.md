@@ -117,7 +117,7 @@ Wir wollen ein Monopoly Brettspiel erstellen, indem man bis zu vier Leuten spiel
 | 19.B  |  23.3     |  Lukas         |    Timer programmieren         |   45'            |
 
 
-Total: 
+Total: 35 Arbeitspackete
 
 
 
@@ -150,7 +150,7 @@ deswegen haben wir uns entschieden einen Prototypen zu erstellen welcher nur von
 | 19.B | 29.03.2023 | Lukas          |   45'            |   20'  |
 | 19.B | 29.03.2023 | Lukas          |   20'            |   14'  |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
