@@ -6,7 +6,7 @@ Mitglieder: Gian Mileti, Lukas Heiniger, Ava Hassani, Yanik Müller
 
 Wir haben ein Monopoly mit Winforms erstellt.
 
-## Was habe ich gelernt?
+## Was habe wir gelernt?
 
 Wir haben gelernt wie man mit Hilfe von Array ein Objekt in Winforms bewegen kann.
 
