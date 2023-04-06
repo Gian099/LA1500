@@ -177,18 +177,13 @@ Total:
 | 16.1  | 06.04.2023 |  positiv        | Lukas       |
 
 
+Das Spiel ist in diesem Zustand eher ein Rohling als ein fertiges Spiel, denoch würde ich sagen sind die Ansätze von Monopoly gegeben sind.
+Trozdem finde ich, könnte man aus diesem Rohling noch ein super tolles Spiel machen. Aber leider übermannen die negativen Resultate die Positive deswegen würde ich
+sage dass das Spiel nicht wirklich spielbar ist.
 
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
