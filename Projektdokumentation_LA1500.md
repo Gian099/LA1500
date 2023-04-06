@@ -122,8 +122,8 @@ Total: 35 Arbeitspackete
 
 ## 3 Entscheiden
 
-Zuerst wollten wir ein 4 Spieler Monopoly machen, jedoch reichte die motivation in der Gruppe wie auch die Zeit nicht aus um ein 4 Spieler Monopoly zumachen
-deswegen haben wir uns entschieden einen Prototypen zu erstellen welcher nur von einer Person bespielt werden kann.
+Zuerst wollten wir ein 4 Spieler Monopoly machen, jedoch reichte die Motivation in der Gruppe wie auch die Zeit nicht aus, um ein 4 Spieler Monopoly zu machen
+deswegen haben wir uns entschieden, einen Prototyp zu erstellen, welcher nur von einer Person bespielt werden kann.
 
 ## 4 Realisieren
 
@@ -175,9 +175,9 @@ deswegen haben wir uns entschieden einen Prototypen zu erstellen welcher nur von
 | 16.1  | 06.04.2023 |  positiv        | Lukas       |
 
 
-Das Spiel ist in diesem Zustand eher ein Rohling als ein fertiges Spiel, denoch würde ich sagen sind die Ansätze von Monopoly gegeben sind.
-Trozdem finde ich, könnte man aus diesem Rohling noch ein super tolles Spiel machen. Aber leider übermannen die negativen Resultate die Positive deswegen würde ich
-sage dass das Spiel nicht wirklich spielbar ist.
+Das Spiel ist in diesem Zustand eher ein Rohling als ein fertiges Spiel, dennoch würde ich sagen sind die Ansätze von Monopoly gegeben sind.
+Trotzdem finde ich, könnte man aus diesem Rohling noch ein super tolles Spiel machen. Aber leider übermannen die negativen Resultate die Positive, deswegen würde ich
+sage, dass das Spiel nicht wirklich spielbar ist.
 
 
 
