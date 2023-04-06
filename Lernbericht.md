@@ -1,6 +1,6 @@
 # Lern-Bericht
 Gruppe: Petunia
-Mitglieder: Gian Mileti, Lukas Heiniger, Ava Hassani, Yanik Müller
+Mitglieder: Gian-Marco Mileti, Lukas Heiniger, Ava Hassani, Yanik Müller
 
 ## Einleitung
 
