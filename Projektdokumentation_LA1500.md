@@ -186,4 +186,4 @@ sage dass das Spiel nicht wirklich spielbar ist.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+(https://github.com/Gian099/LA1500/blob/main/Lernbericht.md)
